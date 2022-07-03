@@ -4,7 +4,7 @@ Bloc, Bloc. Provider, Bloc Listener, Bloc Builder, Bloc Consumer
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a showing the implimentation of FLutter Bloc state management with flutter bloc provider, bloc builder, bloc listener, bloc consumer.
 
 A few resources to get you started if this is your first Flutter project:
 
